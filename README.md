@@ -91,9 +91,4 @@ Energy consumption in buildings is a major contributor to global energy demand a
 - UCI Machine Learning Repository
 - Inspired by sustainable architecture and green building innovations 🌱
 
----
-
-## 📬 Contact
-
-If you have questions or suggestions, feel free to open an issue or connect with me.
 
